@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/TheCookingWiz/static/css/main.5f361e03.chunk.css",
+    "main.js": "/TheCookingWiz/static/js/main.6274e3fa.chunk.js",
+    "main.js.map": "/TheCookingWiz/static/js/main.6274e3fa.chunk.js.map",
+    "runtime-main.js": "/TheCookingWiz/static/js/runtime-main.913cd582.js",
+    "runtime-main.js.map": "/TheCookingWiz/static/js/runtime-main.913cd582.js.map",
+    "static/js/2.376f663c.chunk.js": "/TheCookingWiz/static/js/2.376f663c.chunk.js",
+    "static/js/2.376f663c.chunk.js.map": "/TheCookingWiz/static/js/2.376f663c.chunk.js.map",
+    "index.html": "/TheCookingWiz/index.html",
+    "precache-manifest.ab163106af8ecc159ecd83a10752f523.js": "/TheCookingWiz/precache-manifest.ab163106af8ecc159ecd83a10752f523.js",
+    "service-worker.js": "/TheCookingWiz/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/TheCookingWiz/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.376f663c.chunk.js.LICENSE.txt": "/TheCookingWiz/static/js/2.376f663c.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/TheCookingWiz/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.913cd582.js",
+    "static/js/2.376f663c.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.6274e3fa.chunk.js"
+  ]
+}
